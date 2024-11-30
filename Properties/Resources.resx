@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="hinh-nen-xanh-duong_092910213" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hinh-nen-xanh-duong_092910213.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="supplier" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\supplier.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hinh-nen-xanh-duong_0929102133" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hinh-nen-xanh-duong_0929102133.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hinh-nen-sieu-xe-3d-cho-may-tinh_1114116852" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hinh-nen-sieu-xe-3d-cho-may-tinh_1114116852.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Order" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Order.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hinh-nen-powerpoint-mau-sang-sang-trong-1_0930193951" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hinh-nen-powerpoint-mau-sang-sang-trong-1_0930193951.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="moi-quan-he-giua-customer-va-consumer1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\moi-quan-he-giua-customer-va-consumer1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Logo_FPT-BTEC" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Logo_FPT-BTEC.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hinh-nen-ngon-lua-xanh-nghe-thuat-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hinh-nen-ngon-lua-xanh-nghe-thuat-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hinh-nen-may-tinh-4k-15" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hinh-nen-may-tinh-4k-15.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hinh-anh-anime-phong-canh-huyen-ao" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hinh-anh-anime-phong-canh-huyen-ao.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hinh-nen-may-tinh-4k-151" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hinh-nen-may-tinh-4k-151.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Product" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Product.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="phu-tung-o-to" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\phu-tung-o-to.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pngtree-office-worker-sven-boy-cute-cartoon-boy-with-a-briefcase-png-image_38483631" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngtree-office-worker-sven-boy-cute-cartoon-boy-with-a-briefcase-png-image_38483631.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hinh-nen-sieu-xe-3d-cho-may-tinh_111411685" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hinh-nen-sieu-xe-3d-cho-may-tinh_111411685.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pngtree-office-worker-sven-boy-cute-cartoon-boy-with-a-briefcase-png-image_38483633" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngtree-office-worker-sven-boy-cute-cartoon-boy-with-a-briefcase-png-image_38483633.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hinh-nen-xanh-duong_0929102132" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hinh-nen-xanh-duong_0929102132.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pngtree-user-login-or-authenticate-icon-on-gray-background-flat-icon-ve-png-image_17420311" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngtree-user-login-or-authenticate-icon-on-gray-background-flat-icon-ve-png-image_17420311.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Invoice" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Invoice.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Den-ba-do-xoc-sau-Trailblazer-52117538-52048954-52117539(1)(1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Den-ba-do-xoc-sau-Trailblazer-52117538-52048954-52117539(1)(1).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="png-clipart-preventive-maintenance-car-toyota-service-car-transport-auto-mechanic1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\png-clipart-preventive-maintenance-car-toyota-service-car-transport-auto-mechanic1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hinh-nen-xanh-duong_0929102131" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hinh-nen-xanh-duong_0929102131.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pngtree-office-worker-sven-boy-cute-cartoon-boy-with-a-briefcase-png-image_38483632" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngtree-office-worker-sven-boy-cute-cartoon-boy-with-a-briefcase-png-image_38483632.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hinh-nen-ngon-lua-xanh-nghe-thuat-13" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hinh-nen-ngon-lua-xanh-nghe-thuat-13.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hinh-nen-ngon-lua-xanh-nghe-thuat-12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hinh-nen-ngon-lua-xanh-nghe-thuat-12.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="home" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\home.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pngtree-user-login-or-authenticate-icon-on-gray-background-flat-icon-ve-png-image_17420312" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngtree-user-login-or-authenticate-icon-on-gray-background-flat-icon-ve-png-image_17420312.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pngtree-office-worker-sven-boy-cute-cartoon-boy-with-a-briefcase-png-image_38483635" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngtree-office-worker-sven-boy-cute-cartoon-boy-with-a-briefcase-png-image_38483635.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="lovepik-yellow-up-arrow-png-image_401343788_wh1200" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\lovepik-yellow-up-arrow-png-image_401343788_wh1200.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hinh-nen-sieu-xe-3d-cho-may-tinh_1114116851" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hinh-nen-sieu-xe-3d-cho-may-tinh_1114116851.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hinh-nen-powerpoint-mau-sang-sang-trong-1_0930193953" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hinh-nen-powerpoint-mau-sang-sang-trong-1_0930193953.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hinh-anh-anime-phong-canh-huyen-ao1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hinh-anh-anime-phong-canh-huyen-ao1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hinh-nen-powerpoint-mau-sang-sang-trong-1_0930193954" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hinh-nen-powerpoint-mau-sang-sang-trong-1_0930193954.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hinh-nen-ngon-lua-xanh-nghe-thuat-11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hinh-nen-ngon-lua-xanh-nghe-thuat-11.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="png-clipart-preventive-maintenance-car-toyota-service-car-transport-auto-mechanic" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\png-clipart-preventive-maintenance-car-toyota-service-car-transport-auto-mechanic.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pngtree-office-worker-sven-boy-cute-cartoon-boy-with-a-briefcase-png-image_3848363" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngtree-office-worker-sven-boy-cute-cartoon-boy-with-a-briefcase-png-image_3848363.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Vai-trò-của-nước-và-những-ảnh-hưởng-đối-với-con-người-xã-hội-1-1024x763" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Vai-trò-của-nước-và-những-ảnh-hưởng-đối-với-con-người-xã-hội-1-1024x763.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hinh-nen-may-tinh-4k-152" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hinh-nen-may-tinh-4k-152.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hinh-nen-powerpoint-mau-sang-sang-trong-1_0930193952" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hinh-nen-powerpoint-mau-sang-sang-trong-1_0930193952.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hinh-nen-may-tinh-4k-50" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hinh-nen-may-tinh-4k-50.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hinh-nen-powerpoint-mau-sang-sang-trong-1_093019395" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hinh-nen-powerpoint-mau-sang-sang-trong-1_093019395.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pngtree-office-worker-sven-boy-cute-cartoon-boy-with-a-briefcase-png-image_38483634" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngtree-office-worker-sven-boy-cute-cartoon-boy-with-a-briefcase-png-image_38483634.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jpg" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\jpg.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hinh-anh-anime-phong-canh-huyen-ao2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hinh-anh-anime-phong-canh-huyen-ao2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pngtree-lock-password-encryption-account-security-login-icon-icon-png-image_3422749" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngtree-lock-password-encryption-account-security-login-icon-icon-png-image_3422749.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pngtree-user-login-or-authenticate-icon-on-gray-background-flat-icon-ve-png-image_1742031" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngtree-user-login-or-authenticate-icon-on-gray-background-flat-icon-ve-png-image_1742031.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pngtree-sitting-in-front-of-the-computer-troubled-man-png-image_3230127" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngtree-sitting-in-front-of-the-computer-troubled-man-png-image_3230127.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="moi-quan-he-giua-customer-va-consumer" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\moi-quan-he-giua-customer-va-consumer.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Inventory" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Inventory.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Invoice1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Invoice1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>

@@ -1,0 +1,12 @@
+HÓA ĐƠN
+----------------------------------
+Name: 
+Paymentmehtod: 
+Datetime: System.Windows.Forms.DateTimePicker, Value: 29/11/2024 7:11:54 CH
+ListProduct: System.Windows.Forms.TextBox, Text: 
+Product: System.Windows.Forms.TextBox, Text: 
+Quantity: System.Windows.Forms.TextBox, Text: 
+----------------------------------
+Sản phẩm:System.Windows.Forms.TextBox, Text: "tSố lượng:System.Windows.Forms.TextBox, Text: "tĐơn giá:System.Windows.Forms.TextBox, Text: "tThành tiền
+:System.Windows.Forms.TextBox, Text: ----------------------------------
+Total Amount
